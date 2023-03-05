@@ -1,5 +1,5 @@
 const { number } = require('Joi');
-const Joi = require('Joi');
+const Joi = require('joi');
 
 const student_schema = Joi.object({
     nom: Joi.string().required(),

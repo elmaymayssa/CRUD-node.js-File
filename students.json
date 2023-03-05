@@ -1,0 +1,52 @@
+[
+    {
+        "nom ": "may may",
+        "classe" : "GLSI",
+        "modules" : [
+                {
+                    "module" : "Spring",
+                    "note" : 14
+                },
+                {
+                    "module" : "BI",
+                    "note" : 13
+                },
+                {
+                    "module" : "Francais",
+                    "note" : 14
+                }
+            ],
+        "moyenne" : 13.666666666
+    },
+    {
+        "nom ": "may",
+        "classe" : "GLSI",
+        "modules" : [
+                {
+                    "module" : "algo",
+                    "note" : 10
+                },           
+                {
+                    "module" : ".Net",
+                    "note" : 11
+                }
+            ],
+        "moyenne" : 10.5
+    },
+    {
+        "nom ": "maram",
+        "classe" : "GLSI",
+        "modules" : [
+                {
+                    "module" : "algo",
+                    "note" : 17
+                },           
+                {
+                    "module" : "reseau",
+                    "note" : 11
+                }
+            ],
+        "moyenne" : 14
+    }
+
+]
